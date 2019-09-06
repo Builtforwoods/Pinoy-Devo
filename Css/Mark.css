@@ -14,7 +14,7 @@ li{
     padding: 50px;
     
 }
-\a:visited { text-decoration: none; color:#000000; }
+a:visited { text-decoration: none; color:#000000; }
 a:hover { text-decoration: none; color:rgb(255, 181, 236); }
 a{text-decoration: none; color: #000000;}
 a:hover, a:active { text-decoration: none; color: rgb(255, 181, 236); }
@@ -28,9 +28,7 @@ a{ font-weight: bold;}
     text-align: center;
     vertical-align: middle;
     line-height: 50px;  
-    -moz-box-shadow:    inset 0 0 10px #c73939;
-   -webkit-box-shadow: inset 0 0 10px ##c73939;
-   box-shadow:         inset 0 0 10px ##c73939;
+   
 }
 body{
     background-color:   greenyellow;
