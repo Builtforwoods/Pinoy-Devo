@@ -1,33 +1,4 @@
-#pinoyIcon {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-ul {
-  color: white;
-  text-align: center;
-  text-decoration: none;
-  margin-top: 2em;
-}
-li {
-  display: inline;
-  padding: 50px;
-}
-a {
-  text-decoration: none;
-  color: #000000;
-}
-a:hover,
-a:active {
-  text-decoration: none;
-  color: rgb(255, 255, 255);
-}
-a {
-  text-decoration: none;
-}
-a {
-  font-weight: bold;
-}
+
 
 #monthCalenderTop {
   height: auto;
@@ -36,33 +7,32 @@ a {
   text-align: center;
   vertical-align: middle;
   line-height: 50px;
+  float: right;
+  display: block;
+  margin-right: 500px;
+  margin-top: 20px;
+  position:relative;
 }
-body {
-  background-color: rgb(255, 228, 203);
-  justify-content: center;
-}
+
 #calendario {
   height: auto;
   width: auto;
-  display: inline-block;
-  float: left;
-  margin: auto;
-}
-.twitter-timeline {
-  display: inline-block;
   float: right;
   margin: auto;
+  display: block;
+
+}
+
+#twitterWindow{
+  display: block;
+  float: right;
+margin-right: 46.5%;
+margin-top: 20px;
+
+top: 20px;
 }
 .fb-page {
   left: auto;
   right: auto;
   display: block;
-}
-#elLoggo {
-  height: 300px;
-  width: 250px;
-  background: #ffcf76;
-  padding: 25px 25px 25px 25px;
-  border-style: solid;
-  border-color: #000000;
 }
