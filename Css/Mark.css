@@ -13,9 +13,6 @@
 #calendario {
   height: auto;
   width: 771px;
-  margin: auto;
-
-
 }
 
 #twitterWindow{
@@ -34,4 +31,7 @@ top: 20px;
   color: white;
   float: left;
   padding-left: 0;
+  background-color: rgb(255, 182, 122);
+  height: auto;
+  max-width: 771px;
 }
