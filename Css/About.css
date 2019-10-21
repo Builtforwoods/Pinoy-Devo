@@ -5,6 +5,7 @@
   margin-top: 20px;
   margin-left: 10px;
   background: rgba(255,216,76,0.7);
+
 }
 #elLogo{
   display: block;
@@ -51,7 +52,7 @@ a {
 }
 body {
   background-color: #15223a;
-  background-image: url("las flores.png");
+  background-image: url("Assets\Images\las flores.png")
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -90,8 +91,11 @@ body {
   height: 23px;
   width: 28px;
 }
-#circleId{
-  height: 50px;
-  width: 50px;
-  border-radius:50%;
+
+#contentDiv{
+  margin: 0 auto;
+  text-align: center;
+  height: auto;
+  width: 800px;
+  margin-top: 20px;
 }
