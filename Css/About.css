@@ -99,3 +99,13 @@ body {
   width: 800px;
   margin-top: 20px;
 }
+#contentDivLinks{
+  margin: 0 auto;
+  text-align: center;
+  height: auto;
+  width: 1200px;
+  margin-top: 20px;
+}
+.simplebar-scrollbar{
+  background-color: white;
+}

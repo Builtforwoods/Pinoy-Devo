@@ -35,3 +35,15 @@ top: 20px;
   height: auto;
   max-width: 771px;
 }
+#linksDiv{
+  width: 1000px;
+  height: 400px;
+    background-color: rgb(255, 182, 122, 0.5);
+
+}
+#linksPhoto{
+  height:100px;
+  width:100px;
+  float: left;
+
+}
